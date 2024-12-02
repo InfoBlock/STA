@@ -5,6 +5,6 @@
         "name": "InfoBlock",
         "role": "Website Developer",
         "submission": "Hello World!",
-        "stars": "<i class="bi bi-star-fill"></i>"
+        "stars": 5
     }
 ]
