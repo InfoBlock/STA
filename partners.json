@@ -26,5 +26,12 @@
         "heading": "Hej! Logistics",
         "description": "Hej! Logistics is a VTC in rapid expansion. Founded in February (2023) by Bromsnorro and ITZNiohe it has quickly become one of the most suitable companies for new drivers. Hej! offers a wide range of possibilities for people who are in search of a VTC. Already gathering an awesome community of drivers from all around the world!",
         "url": "https://discord.gg/qVcvYJFuWz"
+    },
+    {
+        "iconSrc": "https://infoblock.frii.site/assets/logos/block%20development%20banner.png",
+        "iconAlt:" "Block Development",
+        "heading": "Block Development",
+        "description": "Block Development founded by InfoBlock is a small Development Team focussed on Website and Discord Bot Development. Thanks to Block Development we are able to provide you with this new and better looking Website, everything done on this Website is managed and maintained by them.",
+        "url": "https://discord.com/invite/ZjcZ4RVsn3/"
     }
 ]
